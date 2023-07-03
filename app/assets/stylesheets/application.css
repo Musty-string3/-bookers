@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.containt {
+  margin: 30px;
+}
+
+.sub {
+  display: block;
+}
+
+.submit {
+  display: block;
+}
+
+.in {
+  display: inline-block;
+}
+
+.flash {
+  color: green;
+}
+
+.errors {
+  background-color: lightgray;
+  border: 1px solid red;
+  width: 450px;
+  height: 160px;
+}
+
+.errors li {
+  list-style: none;
+  text-align: center
+}
+
+.error {
+  background-color: red;
+}
+
+.error p {
+  color: white;
+  margin-left: 10px;
+}
+
+.ul {
+  line-height: 60px;
+}
